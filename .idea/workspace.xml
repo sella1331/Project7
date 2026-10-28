@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="728001a6-895d-4926-a2ea-c32e30346e5e" name="Changes" comment="start">
+    <list default="true" id="728001a6-895d-4926-a2ea-c32e30346e5e" name="Changes" comment="1 task finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
@@ -112,14 +112,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="1 task finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 task finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/main.go</url>
-          <line>34</line>
+          <line>49</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
